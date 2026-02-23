@@ -4,7 +4,7 @@ A Java-based simulation of a stock trading platform that lets users buy and sell
 
 ---
 
-## 🧠 Features
+##  Features
 
 ✔ Simulates stock market price changes  
 ✔ Buy and sell operations  
@@ -15,7 +15,7 @@ A Java-based simulation of a stock trading platform that lets users buy and sell
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 The platform consists of these OOP classes:
 
@@ -30,8 +30,11 @@ The platform consists of these OOP classes:
 
 ---
 
-## ▶️ Running the Program
+## Running the Program
 
 1. Clone the repository  
    ```bash
    git clone https://github.com/ABDULRAFI2007/CodeAlpha_Stock_Trading_Platform.git
+## commands
+javac StockTradingApp.java
+java StockTradingApp
